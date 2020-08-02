@@ -67,8 +67,8 @@ h2 { font-size: 1.8rem; }
 }
 
 .btn-primary {
-    background: #993333;
-    border-color: #993333;
+    background: #6179AA;
+    border-color: #6179AA;
 }
 
 .btn-secondary {
@@ -88,10 +88,10 @@ h2 { font-size: 1.8rem; }
     border-color: #ec4949;
 }
 
-.tm-bg-color-primary { background-color: #993333; }
+.tm-bg-color-primary { background-color: #6179AA; }
 .tm-bg-color-secondary { background-color: #009999; }
 .tm-bg-color-gray { background-color: #666666; }
-.tm-text-color-primary { color: #993333; }
+.tm-text-color-primary { color: #6179AA; }
 .tm-text-color-white { color: white; }
 .tm-text-color-gray { color: #666666; }
 .tm-font-thin { font-weight: 300; }
@@ -149,7 +149,7 @@ h2 { font-size: 1.8rem; }
 }
 
 .tm-form-header {
-    background: #993333;
+    background: #6179AA;
     padding: 40px 40px 90px;
 }
 
@@ -180,12 +180,12 @@ h2 { font-size: 1.8rem; }
 }
 
 .form-control:focus {
-    border-color: #993334;
-    box-shadow: 0 0 0 0.2rem #9933343b;
+    border-color: #6179AA;
+    box-shadow: 0 0 0 0.2rem #6179AA3b;
 }
 
 select:focus {
-    outline-color: #993334;
+    outline-color: #6179AA;
 }
 
 .tm-contact-form select {
@@ -205,6 +205,12 @@ select:focus {
 .tm-copyright-text {
     padding: 20px;
     font-size: 1rem;
+}
+
+/* emanuel0918 */
+.scaled-image1{
+	width: 200px;
+	height: 200px;
 }
 
 /* Loader */
