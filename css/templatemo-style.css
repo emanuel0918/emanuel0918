@@ -84,8 +84,8 @@ h2 { font-size: 1.8rem; }
 
 .btn-primary:focus,
 .btn-primary:hover {
-    background: #ec4949;
-    border-color: #ec4949;
+    background: #7a8fb8;
+    border-color: #7a8fb8;
 }
 
 .tm-bg-color-primary { background-color: #6179AA; }
@@ -207,12 +207,6 @@ select:focus {
     font-size: 1rem;
 }
 
-/* emanuel0918 */
-.scaled-image1{
-	width: 200px;
-	height: 200px;
-}
-
 /* Loader */
 
 #loader-wrapper {
@@ -250,7 +244,7 @@ select:focus {
     bottom: 5px;
     border-radius: 50%;
     border: 3px solid transparent;
-    border-top-color: #e74c3c;
+    border-top-color: #7a8fb8;
 
     -webkit-animation: spin 3s linear infinite; /* Chrome, Opera 15+, Safari 5+ */
     animation: spin 3s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */
@@ -395,4 +389,59 @@ select:focus {
     .tm-contact-form {
         padding: 30px 25px;
     }
+}
+
+
+
+
+
+
+/* emanuel0918 */
+.scaled-image1{
+	width: 200px;
+	height: 200px;
+}
+
+.references-in-icons{
+    width: 100%;
+    height: 100%;
+    float: left;
+}
+
+.references-individual{
+    width: 33%;
+    height: 45%;
+    padding-top: 5%;
+    float: left;
+    text-align: center;
+}
+
+.link-to-github{
+    color: #262626;
+}
+.link-to-github:hover{
+    color: #737373;
+}
+
+
+.link-to-twitter{
+    color: #50A1F2;
+}
+.link-to-twitter:hover{
+    color: #a0ccf8;
+}
+
+.link-to-instagram{
+    color: #ff00bf;
+}
+.link-to-instagram:hover{
+    color: #ff80df;
+}
+
+
+.link-to-whatsapp{
+    color: #009900;
+}
+.link-to-whatsapp:hover{
+    color: #003300;
 }
