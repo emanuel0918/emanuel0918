@@ -424,6 +424,14 @@ select:focus {
 }
 
 
+
+.link-to-youtube{
+    color: #F13334;
+}
+.link-to-youtube:hover{
+    color: #F24040;
+}
+
 .link-to-twitter{
     color: #50A1F2;
 }
