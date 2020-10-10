@@ -28,13 +28,11 @@
     color: #737373;
 }
 
-
-
 .link-to-youtube{
-    color: #F13334;
+    color: #f13334;
 }
 .link-to-youtube:hover{
-    color: #F24040;
+    color: #f57070;
 }
 
 .link-to-twitter{
@@ -44,6 +42,13 @@
     color: #a0ccf8;
 }
 
+.link-to-facebook{
+    color: #519ef6;
+}
+.link-to-facebook:hover{
+    color: #86bbf9;
+}
+
 .link-to-instagram{
     color: #ff00bf;
 }
@@ -51,10 +56,9 @@
     color: #ff80df;
 }
 
-
 .link-to-whatsapp{
     color: #009900;
 }
 .link-to-whatsapp:hover{
-    color: #003300;
+    color: #00cc00;
 }
