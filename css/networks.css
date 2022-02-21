@@ -62,3 +62,49 @@
 .link-to-whatsapp:hover{
     color: #00cc00;
 }
+
+/* Button Inverted */
+.btn-primary-inverted-color{
+    color:#6179aa;
+    background-color:#ffffff;
+    border-color:#364563
+}
+.btn-primary-inverted-color:hover{
+    color:#fff;
+    background-color:#0069d9;
+    border-color:#0062cc
+}
+.btn-primary-inverted-color.focus,.btn-primary-inverted-color:focus{
+    box-shadow:0 0 0 .2rem rgba(71, 92, 133,.5)
+}
+.btn-primary-inverted-color.disabled,.btn-primary-inverted-color:disabled{
+    background-color:#cdd5e4;
+    border-color:#242e42
+}
+.btn-primary-inverted-color:not([disabled]):not(.disabled).active,.btn-primary-inverted-color:not([disabled]):not(.disabled):active,.show>.btn-primary-inverted-color.dropdown-toggle{
+    color:#fff;
+    background-color:#506795;
+    border-color:#506795
+}
+.btn-primary-inverted-color:not([disabled]):not(.disabled).active:focus,.btn-primary-inverted-color:not([disabled]):not(.disabled):active:focus,.show>.btn-primary-inverted-color.dropdown-toggle:focus{
+    box-shadow:0 0 0 .2rem rgba(62,80,116,.5)
+}
+
+
+/* Heatmap */
+.heatmap-demo-img{
+    height: 200px;
+    width: 100%;
+    position: relative;
+    float: left;
+    font-weight: bold;
+}
+
+/* TemplateMO */
+.link-inverted-color {
+    color: #9cacc9;
+}
+.link-inverted-color:hover {
+    color: #cdd5e4;
+    text-decoration: none;
+}
